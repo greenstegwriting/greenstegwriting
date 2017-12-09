@@ -1,12 +1,13 @@
-baseURL = "rachitsingh.com"
+baseURL = "https://www.greensteg.com"
 languageCode = "en-us"
-title = "Rachit Singh"
+title = "Greensteg"
 theme = "onetwothree"
-pygmentsCodeFences=true 
+pygmentsCodeFences = true
+pygmentsStyle = "autumn"
 
 [permalinks]
-    post = "/:slug/"
+    posts = "/:slug/"
 
 [params]
-    email = "rachitsingh@college.harvard.edu"
+    email = "greensteg@gmail.com"
     navigation = ["about.md"]
