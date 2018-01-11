@@ -6,6 +6,7 @@ tags: [thoughts]
 slug: my_first_post
 ---
 
-This is a first post.
+Yo!
 
+doot diddly donger cuckerino haHAA
 ![greensteg](/greensteg.jpg "The Greensteg in Action")
