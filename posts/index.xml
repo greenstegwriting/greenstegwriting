@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Greensteg</title>
-    <link>https://www.greensteg.com/posts/</link>
+    <link>https://greenstegwriting.github.io/posts/</link>
     <description>Recent content in Posts on Greensteg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Jan 2018 20:45:26 -0800</lastBuildDate>
     
-	<atom:link href="https://www.greensteg.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://greenstegwriting.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My_first_post</title>
-      <link>https://www.greensteg.com/my_first_post/</link>
+      <link>https://greenstegwriting.github.io/my_first_post/</link>
       <pubDate>Wed, 10 Jan 2018 20:45:26 -0800</pubDate>
       
-      <guid>https://www.greensteg.com/my_first_post/</guid>
+      <guid>https://greenstegwriting.github.io/my_first_post/</guid>
       <description>Yo!
 doot diddly donger cuckerino haHAA </description>
     </item>
