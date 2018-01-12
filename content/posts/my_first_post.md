@@ -10,5 +10,7 @@ We begin as the setting sun purples the sky. A few pink clouds hang overhead, gl
 
 I kick off and start pedaling in the street, with him not too far behind. Soon, the sodium-vapor streetlamps flicker on and tint the streets with their orange light. We meander north, cruising through the streets with the ghosts of cars following us. After a while, we stop near a brook on the edge of town. Dusk falls, slowly bringing layers of deep blues and dark hues into the sky. The water trembles slightly as the wind ripples its surface.
 
+![Where is this?](/static/water.jpg)
+
 As we venture further north, the paved road eventually ends and a dirt road takes its place. 
 
